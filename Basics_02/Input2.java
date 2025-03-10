@@ -11,6 +11,7 @@ public class Input2 {
         // System.out.println(single);
         // byte q [] = System.in.readAllBytes();// Reads all remaining bytes from the input stream.
         // System.out.println(q);
+        // 3) BufferedReader
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Enter the first name");
         String name = br.readLine();
