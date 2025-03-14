@@ -12,6 +12,6 @@ public class PrintName {
         printName(num-1);
     }
     public static void main(String[] args) {
-        printName(5);
+        printName(6);
     }
 }
