@@ -6,6 +6,9 @@ public class JavaBasics {
         // int is a type (Data type)
         // int store non decimal value, int has there own range.
         id = 1001;
+        int id1 = 10010; // Explicit way
+        var x = 10; // Implicit way (Type Inference) - Java 10
+
 
         byte age = 22;// -128 to 127
         byte rollNo = (byte)130;//Typecasting (Explicit)
