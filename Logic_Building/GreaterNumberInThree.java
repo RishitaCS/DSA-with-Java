@@ -1,5 +1,3 @@
-package Logic_Building;
-
 public class GreaterNumberInThree {
     public static void main(String[] args) {
         int first = 500;

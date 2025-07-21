@@ -1,5 +1,3 @@
-package Recursion;
-
 public class RightTriangleStarPattern {
     
     static void printStar(int star){

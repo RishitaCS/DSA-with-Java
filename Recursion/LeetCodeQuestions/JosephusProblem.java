@@ -1,4 +1,3 @@
-package Recursion.LeetCodeQuestions;
 public class JosephusProblem {
 
     static int josephus(int n, int k){

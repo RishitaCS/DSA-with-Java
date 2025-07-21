@@ -1,5 +1,3 @@
-package Recursion;
-
 public class PalindromeNumber {
 
     static boolean palindromeNumber(int num, int reverse, int cpy){

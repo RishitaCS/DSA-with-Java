@@ -1,5 +1,3 @@
-package Recursion;
-
 public class TreeRecursion {
     static void fun(int num){
         // Base case

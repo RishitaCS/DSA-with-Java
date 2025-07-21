@@ -1,5 +1,3 @@
-package Recursion;
-
 public class SumOfDigit {
 
     // Stack-Fall Approach

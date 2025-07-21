@@ -1,5 +1,3 @@
-package Recursion;
-
 public class BinaryToDecimal {
 
     static int convertToDecimal2(int num, int pow, int sum){

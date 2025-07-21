@@ -1,5 +1,3 @@
-package Logic_Building;
-
 public class EvenOdd {
     public static void main(String[] args) {
         int num = 7;

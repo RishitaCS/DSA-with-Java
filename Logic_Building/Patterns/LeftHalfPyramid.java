@@ -1,5 +1,3 @@
-package Logic_Building.Patterns;
-
 public class LeftHalfPyramid{
 
     static void printStar(int currentRow){

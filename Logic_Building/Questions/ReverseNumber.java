@@ -1,5 +1,3 @@
-package Logic_Building.Questions;
-
 public class ReverseNumber {
     public static void main(String[] args) {
         int num = 123;

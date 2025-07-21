@@ -1,5 +1,3 @@
-
-
 public class ArraySortedOrNot {
 
     // Using boolean return variable

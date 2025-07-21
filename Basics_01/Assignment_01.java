@@ -1,5 +1,3 @@
-package Basics_01;
-
 // We will have a name input and need to convert the input string into the proper case 
 //(i.e. First letter capital and others small of each word)
 public class Assignment_01 {

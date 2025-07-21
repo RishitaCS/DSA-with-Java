@@ -1,4 +1,3 @@
-package Logic_Building.Questions;
 public class PrimeNumber {
     public static void main(String[] args) {
         //1st way 

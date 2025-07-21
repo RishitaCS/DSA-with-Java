@@ -1,4 +1,3 @@
-package Recursion.LeetCodeQuestions;
 public class PermutationOfString{
 
     static void genPerm(String str, String output){

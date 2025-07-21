@@ -1,4 +1,3 @@
-package Logic_Building.Questions;
 // Swap first and last digit of a number
 public class SwapFirstLastDigit {
     public static void main(String[] args) {

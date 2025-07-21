@@ -1,4 +1,3 @@
-package Logic_Building.Questions;
 // Find frequency of each digit in a number
 // Hint :- MAP or Java Array Hashing
 // I am going to use MAP(HashMap implementation) for this problem since it has key-value pairs and if we lookup for a key in Map then Map do constant time search.

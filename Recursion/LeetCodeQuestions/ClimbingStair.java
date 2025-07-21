@@ -1,4 +1,3 @@
-package Recursion.LeetCodeQuestions;
 public class ClimbingStair {
 
     // This code is not the optimized solution since its giving exponential time complexity , so we will use dp approach to solve it.

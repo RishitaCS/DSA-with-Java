@@ -1,4 +1,3 @@
-package Logic_Building.Questions;
 // Even and Odd Place(Position) Sum of Digit
 public class EvenOddPosSum {
     public static void main(String[] args) {

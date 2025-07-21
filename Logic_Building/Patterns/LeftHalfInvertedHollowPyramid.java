@@ -1,5 +1,3 @@
-package Logic_Building.Patterns;
-
 public class LeftHalfInvertedHollowPyramid {
 
     static void printPattern(int currentRow, int rows){

@@ -1,4 +1,3 @@
-package Recursion;
 // Count even and odd number between 1 to N
 public class CountEvenOdd {
 

@@ -1,5 +1,3 @@
-package Recursion;
-
 public class FactorialOfNum {
 
     static int fact(int num){

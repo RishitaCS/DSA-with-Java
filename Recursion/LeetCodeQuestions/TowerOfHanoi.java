@@ -1,5 +1,3 @@
-package Recursion.LeetCodeQuestions;
-
 public class TowerOfHanoi {
 
     static void toh(int disks,char A, char B, char C){

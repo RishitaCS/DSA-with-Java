@@ -1,5 +1,3 @@
-package Basics_01;
-
 public class JavaBasics {
     public static void main(String[]args){
         int id; // id is a variable name, what the type of id

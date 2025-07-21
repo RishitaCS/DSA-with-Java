@@ -1,5 +1,3 @@
-package Recursion.LeetCodeQuestions;
-
 public class SubsequenceOfString {
 
     static void subSequenceGen(String str, String result){

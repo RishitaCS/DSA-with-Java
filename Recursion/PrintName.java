@@ -1,5 +1,3 @@
-package Recursion;
-
 public class PrintName {
     static void printName(int num){
         // Recursion Stop

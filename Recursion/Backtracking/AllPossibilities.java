@@ -1,5 +1,3 @@
-package Recursion.Backtracking;
-
 // Exhaustive Search
 public class AllPossibilities {
     static void allAtoZPos(int nLen, String result){

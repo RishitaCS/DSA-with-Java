@@ -1,5 +1,3 @@
-package Logic_Building.Patterns;
-
 import java.util.Scanner;
 
 public class HollowDiamond {

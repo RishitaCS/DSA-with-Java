@@ -1,5 +1,3 @@
-package Logic_Building.Questions;
-
 // Find out the sum of digit
 public class SumOfDigit {
     public static void main(String[] args) {

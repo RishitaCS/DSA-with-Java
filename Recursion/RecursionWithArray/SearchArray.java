@@ -1,5 +1,3 @@
-
-
 public class SearchArray {
 
     static boolean isFound2(int [] arr, int index, int target){

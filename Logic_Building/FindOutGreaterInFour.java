@@ -1,5 +1,3 @@
-package Logic_Building;
-
 public class FindOutGreaterInFour {
     public static void main(String[] args) {
         int first = 1500;

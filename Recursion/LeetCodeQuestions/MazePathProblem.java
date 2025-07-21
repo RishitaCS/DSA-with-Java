@@ -1,5 +1,3 @@
-package Recursion.LeetCodeQuestions;
-
 public class MazePathProblem {
 
     static void mazePossibility(int row, int col, int endRow, int endCol, String result){

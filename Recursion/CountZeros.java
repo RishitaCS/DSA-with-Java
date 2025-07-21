@@ -1,4 +1,3 @@
-package Recursion;
 // Count number of zeros in a number
 public class CountZeros {
 

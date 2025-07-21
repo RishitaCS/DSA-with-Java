@@ -1,5 +1,3 @@
-package Logic_Building;
-
 public class SwitchCase {
 
     static int getPrice(){

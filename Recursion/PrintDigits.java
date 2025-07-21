@@ -1,5 +1,3 @@
-package Recursion;
-
 public class PrintDigits {
 
     static void printDigits(int num){

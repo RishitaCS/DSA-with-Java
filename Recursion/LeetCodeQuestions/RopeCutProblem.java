@@ -1,5 +1,3 @@
-package Recursion.LeetCodeQuestions;
-
 public class RopeCutProblem {
 
     static int maxCut(int ropeLen, int a, int b, int c){

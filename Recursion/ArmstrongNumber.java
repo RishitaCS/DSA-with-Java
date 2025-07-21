@@ -1,5 +1,3 @@
-package Recursion;
-
 public class ArmstrongNumber {
 
     static int countDigit(int num){

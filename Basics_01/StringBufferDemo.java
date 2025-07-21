@@ -1,5 +1,3 @@
-package Basics_01;
-
 public class StringBufferDemo {
     public static void main(String[] args) {
         String name = "Rishita";

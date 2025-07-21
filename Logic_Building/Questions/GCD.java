@@ -1,5 +1,3 @@
-package Logic_Building.Questions;
-
 public class GCD {
     public static void main(String[] args) {
         int a = 24;

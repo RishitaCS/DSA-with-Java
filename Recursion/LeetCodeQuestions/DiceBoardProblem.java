@@ -1,5 +1,3 @@
-package Recursion.LeetCodeQuestions;
-
 public class DiceBoardProblem {
 
     static void boardProblem(int currentValue, int endValue, String result){

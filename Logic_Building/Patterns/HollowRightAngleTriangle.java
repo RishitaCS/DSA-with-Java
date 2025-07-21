@@ -1,5 +1,3 @@
-package Logic_Building.Patterns;
-
 public class HollowRightAngleTriangle {
     public static void main(String[] args) {
         int range = 5;

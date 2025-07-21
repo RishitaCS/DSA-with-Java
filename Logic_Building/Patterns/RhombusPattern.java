@@ -1,5 +1,3 @@
-package Logic_Building.Patterns;
-
 public class RhombusPattern {
 
     static void printSpace(int spaceCount){

@@ -1,4 +1,3 @@
-package Logic_Building.Questions;
 // Strong number or Peterson Number
 public class StrongNumber {
 

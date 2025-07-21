@@ -1,4 +1,3 @@
-package Recursion;
 // Count even and odd digits in a number
 public class CountEvenOdd2 {
 

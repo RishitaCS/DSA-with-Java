@@ -1,4 +1,3 @@
-package Recursion;
 // Find out number is strong or not
 public class StrongNumber {
 

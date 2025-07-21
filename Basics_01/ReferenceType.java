@@ -1,5 +1,3 @@
-package Basics_01;
-
 import java.util.Date;
 
 /*

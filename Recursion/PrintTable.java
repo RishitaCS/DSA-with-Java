@@ -1,5 +1,3 @@
-package Recursion;
-
 public class PrintTable {
 
     static String printTable2(int num, int val){

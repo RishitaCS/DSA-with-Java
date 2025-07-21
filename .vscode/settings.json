@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": [
+        "Arrays",
+        "Basics_01",
+        "Basics_02",
+        "Linked_List",
+        "Graph",
+        "Logic_Building",
+        "Recursion",
+        "Tree_Foundation",
+        "Recursion\\Backtracking",
+        "Recursion\\LeetCodeQuestions",
+        "Recursion\\RecursionWithArray",
+        "Recursion\\RecursionWithString",
+        "Logic_Building\\Patterns",
+        "Logic_Building\\Questions"
+    ],
+    "java.project.referencedLibraries": []
+}

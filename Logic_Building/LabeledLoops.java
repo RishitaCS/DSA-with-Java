@@ -1,5 +1,3 @@
-package Logic_Building;
-
 public class LabeledLoops {
     public static void main(String[]args){
         outer:

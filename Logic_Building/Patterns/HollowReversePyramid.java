@@ -1,5 +1,3 @@
-package Logic_Building.Patterns;
-
 public class HollowReversePyramid {
     public static void main(String[] args) {
         int range = 5;
